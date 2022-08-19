@@ -1,9 +1,8 @@
 <h1 align="center">Hello There👋, I'm Laxit Shah</h1>
-<h3 align="center">A Passionate Developer</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxitshah&label=Profile%20views&color=0e75b6&style=flat" alt="laxitshah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxitshah" alt="laxitshah" /></a> </p>
 
 - 👨‍💻I am currently looking for **A new Job Opportunity**
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **laxit500@gmail.com**
 
-- 📃Resume Link [https://drive.google.com/file/d/1-1JPrLCGAK14uPXjT-N9gBzhfvLEToff/view?usp=sharing](https://drive.google.com/file/d/1-1JPrLCGAK14uPXjT-N9gBzhfvLEToff/view?usp=sharing)
+- 📃Resume Link <a href="https://drive.google.com/file/d/1-1JPrLCGAK14uPXjT-N9gBzhfvLEToff/view?usp=sharing" style=”display:none”>Link</a> 
 
 - ⚡ Fun fact **I Love Working with Computers💻**
 
