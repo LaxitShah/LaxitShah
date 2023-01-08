@@ -16,7 +16,7 @@
 
 - 📃Resume  <a href="https://drive.google.com/file/d/1-1JPrLCGAK14uPXjT-N9gBzhfvLEToff/view?usp=sharing" style=”display:none”>Link</a> 
 
-- ⚡ Fun fact **I Love Working with Computers💻**
+- ⚡ Fun Fact **NASA is still using programs from the 70s in their spacecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
