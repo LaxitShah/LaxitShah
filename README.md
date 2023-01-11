@@ -1,7 +1,7 @@
 <h1 align="center">Hello There👋, I'm Laxit Shah</h1>
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxitshah&label=Profile%20views&color=0e75b6&style=flat" alt="laxitshah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxitshah&label=Profile%20views&color=0e175b6&style=flat" alt="laxitshah" /> </p>
 
 
 - 👨‍💻I am currently looking for **A new Job Opportunity**
