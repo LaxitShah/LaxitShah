@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxitshah&label=Profile%20views&color=0e75b6&style=flat" alt="laxitshah" /> </p>
-👨‍💻I am currently looking for A new Job Opportunity<br><br>👨‍🎓I’m currently pursuing MSC-IT from DAIICT<br><br>🎯 I’m currently Focusing on MERN,DSA,Android Development<br><br>💬 Ask me about Web Development,Android Development,DSA,Database Management <br><br>📫 How to reach me:  <a href="#" style="display:none">laxit500@gmail.com</a><br><br>📃Resume <a href="https://drive.google.com/file/d/1-1JPrLCGAK14uPXjT-N9gBzhfvLEToff/view?usp=sharing" style=”display:none”>Link</a> <br><br> ⚡ Fun Fact About me: I have a deep passion for traveling and exploring new cultures, in addition to my love for technology and coding. <br>
+👨‍💻I am currently looking for A new Job Opportunity<br><br>👨‍🎓I’m currently pursuing MSC-IT from DAIICT<br><br>🎯 I’m currently Focusing on MERN,DSA,Android Development<br><br>💬 Ask me about Web Development,Android Development,DSA,Database Management <br><br>📫 How to reach me:  <a href="#" style="display:none">laxit500@gmail.com</a><br><br>📃Resume <a href="https://drive.google.com/file/d/1-1JPrLCGAK14uPXjT-N9gBzhfvLEToff/view?usp=sharing" style=”display:none”>Link</a> <br><br> ⚡ Fun Fact: I am a multi-passionate individual who finds joy in coding (💻), writing (📝), traveling (🌍), and photography (📷). <br>
 
 
 ## 🌐 Socials:
@@ -19,4 +19,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LaxitShah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+<div align="left">
+             Here,Hope this makes you laugh 🤗<br/><br/>
+            <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 
