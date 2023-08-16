@@ -27,7 +27,7 @@
 
 
 <div align="left">
-             Here,Hope this makes you laugh 🤗<br/><br/>
+             Here,Hope this makes you laugh 😂<br/><br/>
             <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
