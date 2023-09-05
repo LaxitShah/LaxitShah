@@ -9,7 +9,7 @@
     ~ Probably Barney Stinson</em>
 </blockquote>
 <br>
-👨‍💻I am currently looking for A new Job Opportunity<br><br>👨‍🎓I’m currently pursuing MSC-IT from DAIICT<br><br>🎯 I’m currently Focusing on MERN,DSA,Android Development<br><br>💬 Ask me about Web Development,Android Development,DSA,Database Management <br><br>📫 How to reach me:  <a href="#" style="display:none">laxit500@gmail.com</a><br><br>📃Resume <a href="https://drive.google.com/file/d/1d6sQFjgUvuQ4PSAd7ujL2b1XVi1KVsEm/view?usp=drive_link" style=”display:none”>Link</a> <br><br> ⚡ Fun Fact: I am a multi-passionate individual who finds joy in coding (💻), writing (📝), traveling (🌍), and photography (📷). <br>
+👨‍💻I am currently looking for A new Job Opportunity<br><br>👨‍🎓I’m currently pursuing MSC-IT from DAIICT<br><br>🎯 I’m currently Focusing on MERN,DSA,Android Development<br><br>💬 Ask me about Web Development,Android Development,DSA,Database Management <br><br>📫 How to reach me:  <a href="#" style="display:none">laxit500@gmail.com</a><br><br>📃Resume <a href="https://drive.google.com/file/d/1LM84mf1gkX3ypNvnIzhP26fg27eSPml3/view?usp=sharing" style=”display:none”>Link</a> <br><br> ⚡ Fun Fact: I am a multi-passionate individual who finds joy in coding (💻), writing (📝), traveling (🌍), and photography (📷). <br>
 
 
 ## 🌐 Socials:
