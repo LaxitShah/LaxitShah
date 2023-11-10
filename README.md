@@ -4,12 +4,6 @@
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxitshah&label=Profile%20views&color=0e75b6&style=flat" alt="laxitshah" /> </p>
-<br><blockquote style="background-color: #f2f2f2; padding: 10px; border-left: 4px solid #ff9800;">
-  <em>"Suit up your code with legendary commits and epic pull requests, because in the version control of life, we're all architecting our own destiny."<br> 
-    ~ Probably Barney Stinson</em>
-</blockquote>
-<br>
-👨‍💻I am currently looking for A new Job Opportunity<br><br>👨‍🎓I’m currently pursuing MSC-IT from DAIICT<br><br>🎯 I’m currently Focusing on MERN,DSA,Android Development<br><br>💬 Ask me about Web Development,Android Development,DSA,Database Management <br><br>📫 How to reach me:  <a href="#" style="display:none">laxit500@gmail.com</a><br><br>📃Resume <a href="https://drive.google.com/file/d/1LM84mf1gkX3ypNvnIzhP26fg27eSPml3/view?usp=sharing" style=”display:none”>Link</a> <br><br> ⚡ Fun Fact: I am a multi-passionate individual who finds joy in coding (💻), writing (📝), traveling (🌍), and photography (📷). <br>
 
 
 ## 🌐 Socials:
