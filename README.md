@@ -27,7 +27,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=logo&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=logo&logo=react&logoColor=61DAFB)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=00599C)&nbsp;
-![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=007ACC)&nbsp;\
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=007ACC)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-05122A?style=flat)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
