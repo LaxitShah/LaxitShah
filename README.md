@@ -81,6 +81,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/laxitshah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=logo&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:laxit500@gmail.com"><img src="https://img.shields.io/badge/-laxit500@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:laxit500@gmail.com"><img src="https://img.shields.io/badge/-laxitshah.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
