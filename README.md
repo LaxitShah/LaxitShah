@@ -9,7 +9,7 @@
 🎓 &nbsp;I'm currently studying  Information Technology at DAIICT.\
 🌱 &nbsp; I’m currently Focusing on MERN,DSA,Android Development.\
 ✍️ &nbsp;I am a multi-passionate individual who finds joy in coding (💻), writing (📝), traveling (🌍), and photography (📷).\
-✉️ &nbsp;Reach me  at	laxit500@gmail.com
+✉️ &nbsp;Reach me  at	laxitshah.dev@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack
